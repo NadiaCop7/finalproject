@@ -1,0 +1,29 @@
+@import "@boundlessgeo/sdk/stylesheet/sdk.scss";
+@import "vars";
+
+
+.App {
+  text-align: $center;
+  background-color: $sienna;
+}
+
+.App-title {
+  font-size: 1.5em;
+  font-family: impact;
+  color: red;
+}
+
+.App-intro {
+  font-size: large;
+  font-family: impact;
+}
+
+.info {
+  text-align: left;
+  font-family: impact;
+  border: 2px solid grey;
+  border-radius: 5px;
+  width: 350px;
+  margin-bottom: 15px;
+  margin: 15px;
+}

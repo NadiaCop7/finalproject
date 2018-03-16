@@ -1,0 +1,1633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "1",
+        " -90.4125 OBJECTID": "BERKELEY",
+        "MUNICIPALITY": "BRK",
+        "MUNI": "007",
+        "MUNICODE": "4.96244058",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{CCA9B695-C465-495A-8931-75D04115E7B8}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "2",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "2.14454346",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{CFFB0D08-6943-4E6C-8C03-50561413A0AB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "3",
+        " -90.4125 OBJECTID": "CALVERTON PARK",
+        "MUNICIPALITY": "CAL",
+        "MUNI": "012",
+        "MUNICODE": "0.41551487",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{BB8DAC9A-307C-4D9B-802B-9ADD4E03F474}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "4",
+        " -90.4125 OBJECTID": "HAZELWOOD",
+        "MUNICIPALITY": "HAZ",
+        "MUNI": "080",
+        "MUNICODE": "16.5813235",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{25F45AC4-1195-4C38-928E-9164F0A76780}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "5",
+        " -90.4125 OBJECTID": "FENTON",
+        "MUNICIPALITY": "FEN",
+        "MUNI": "021",
+        "MUNICODE": "6.3912654",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{8F27ED2B-859F-49D0-8E68-B68D47C8B33F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "6",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.0119003",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{643341F7-98C3-46F9-B728-5EA052A27677}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "7",
+        " -90.4125 OBJECTID": "MANCHESTER",
+        "MUNICIPALITY": "MAN",
+        "MUNI": "094",
+        "MUNICODE": "5.05194587",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{7F39A47C-C4F8-4457-9A73-889CF966FD5B}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "8",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00257117",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{DD874088-B13E-47E0-8250-7C52EC1129CB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "9",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.29064989",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{A2DD9F69-E2EB-4FD5-9414-6FF3427123F3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "10",
+        " -90.4125 OBJECTID": "BEL-RIDGE",
+        "MUNICIPALITY": "BLR",
+        "MUNI": "005",
+        "MUNICODE": "0.7732635",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{CBD225BE-7EC4-4297-8053-AE09B0468757}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "11",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.16942913",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{E0E450E1-685E-426B-9192-0D8D52F7DA69}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "12",
+        " -90.4125 OBJECTID": "CLAYTON",
+        "MUNICIPALITY": "CLY",
+        "MUNI": "014",
+        "MUNICODE": "2.50957127",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{5CFD312C-9E03-42A1-ADBB-D5061E436F77}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "13",
+        " -90.4125 OBJECTID": "ST. JOHN",
+        "MUNICIPALITY": "STJ",
+        "MUNI": "051",
+        "MUNICODE": "1.4285847",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{918B787E-A22D-4844-A890-3F2180962842}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "14",
+        " -90.4125 OBJECTID": "KINLOCH",
+        "MUNICIPALITY": "KIN",
+        "MUNI": "074",
+        "MUNICODE": "0.73391852",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{22C588A9-E796-4587-ADBE-1B4494B936CF}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "15",
+        " -90.4125 OBJECTID": "GLENDALE",
+        "MUNICIPALITY": "GLN",
+        "MUNI": "026",
+        "MUNICODE": "1.30133559",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{20664320-397D-4BCC-9937-517969E572D7}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "16",
+        " -90.4125 OBJECTID": "EDMUNDSON",
+        "MUNICIPALITY": "EDM",
+        "MUNI": "073",
+        "MUNICODE": "0.27426663",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{4B3360C4-2DB6-4061-8B9E-EAAA831DC1CE}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "17",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.01942226",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{0BB46209-90D9-4C69-B57D-F2D8D21E405C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "18",
+        " -90.4125 OBJECTID": "OAKLAND",
+        "MUNICIPALITY": "OAK",
+        "MUNI": "041",
+        "MUNICODE": "0.59968812",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{FFE1AE40-AFC9-46D0-A982-AF7010B3A1C5}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "19",
+        " -90.4125 OBJECTID": "SUNSET HILLS",
+        "MUNICIPALITY": "SUN",
+        "MUNI": "101",
+        "MUNICODE": "9.04584206",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{45C51426-6CB8-44F3-8D26-EC1D9253BDF2}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "20",
+        " -90.4125 OBJECTID": "BEL-NOR",
+        "MUNICIPALITY": "BLN",
+        "MUNI": "004",
+        "MUNICODE": "0.62799875",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{44AD2C04-9EC2-4CE8-AD82-C8EDC4CA86CC}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "21",
+        " -90.4125 OBJECTID": "WEBSTER GROVES",
+        "MUNICIPALITY": "WEB",
+        "MUNI": "064",
+        "MUNICODE": "5.90369884",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{65B8EF7C-C06A-430C-AF1B-371455E0861F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "22",
+        " -90.4125 OBJECTID": "NORWOOD COURT",
+        "MUNICIPALITY": "NWC",
+        "MUNI": "077",
+        "MUNICODE": "0.12322321",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{2A287826-6A6E-4144-A10F-1A8B6EFEB5FB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "23",
+        " -90.4125 OBJECTID": "MOLINE ACRES",
+        "MUNICIPALITY": "MOL",
+        "MUNI": "081",
+        "MUNICODE": "0.5705867",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{D6A48E04-1C68-49AB-85A9-DA3E6EA3F377}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "24",
+        " -90.4125 OBJECTID": "BRECKENRIDGE HILLS",
+        "MUNICIPALITY": "BRH",
+        "MUNI": "084",
+        "MUNICODE": "0.79829633",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{307B42FB-25F9-4CB8-915B-70521E232ED4}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "25",
+        " -90.4125 OBJECTID": "WARSON WOODS",
+        "MUNICIPALITY": "WAR",
+        "MUNI": "063",
+        "MUNICODE": "0.5639831",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{6A96BEBF-4D01-4CAC-ABB9-44E2C6E3C024}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "26",
+        " -90.4125 OBJECTID": "LADUE",
+        "MUNICIPALITY": "LAD",
+        "MUNI": "033",
+        "MUNICODE": "8.545107",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{3DCC375E-AFD6-4F3C-94A2-2E1CD5B95591}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "27",
+        " -90.4125 OBJECTID": "WOODSON TERRACE",
+        "MUNICIPALITY": "WOD",
+        "MUNI": "067",
+        "MUNICODE": "0.77796253",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{3FC3F3C9-B582-4AE6-83F2-700F35E1E696}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "28",
+        " -90.4125 OBJECTID": "CHAMP",
+        "MUNICIPALITY": "CMP",
+        "MUNI": "102",
+        "MUNICODE": "0.79849851",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{922629E8-39CC-4455-946B-87AFB22A390A}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "29",
+        " -90.4125 OBJECTID": "RIVERVIEW",
+        "MUNICIPALITY": "RIV",
+        "MUNI": "089",
+        "MUNICODE": "0.8303368",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{31AD99BE-C5E3-4A2D-B429-3D0EA58969FC}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "30",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00232265",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{7358B569-8044-43E5-937B-B1AF3A40DF42}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "31",
+        " -90.4125 OBJECTID": "DELLWOOD",
+        "MUNICIPALITY": "DEL",
+        "MUNI": "095",
+        "MUNICODE": "1.03867972",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{7CAF2834-5FDE-4561-AC8D-7810109FCD24}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "32",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "2.35408766",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{19F5394D-783C-4B14-BBF2-B0507DAD3BA5}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "33",
+        " -90.4125 OBJECTID": "BLACK JACK",
+        "MUNICIPALITY": "BKJ",
+        "MUNI": "103",
+        "MUNICODE": "2.61431547",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{CFE248F9-647F-400E-92D7-21D180681239}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "34",
+        " -90.4125 OBJECTID": "GREENDALE",
+        "MUNICIPALITY": "GRN",
+        "MUNI": "086",
+        "MUNICODE": "0.18683104",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{3F268144-0BDC-4EDB-8E78-AE49FE37D91C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "35",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "1.64609768",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{875888D2-1F18-41D6-9285-E734F7401193}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "36",
+        " -90.4125 OBJECTID": "WILBUR PARK",
+        "MUNICIPALITY": "WIL",
+        "MUNI": "065",
+        "MUNICODE": "0.05927348",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{44D72449-AB47-4DED-9865-8EE1B386CA74}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "37",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.02690897",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{F00CA4D5-DEB5-43B7-9ADB-B923985A7140}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "38",
+        " -90.4125 OBJECTID": "MACKENZIE",
+        "MUNICIPALITY": "MAC",
+        "MUNI": "034",
+        "MUNICODE": "0.02000011",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{22C88574-16C3-43D6-90D6-2B82D0D8DB4E}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "39",
+        " -90.4125 OBJECTID": "WINCHESTER",
+        "MUNICIPALITY": "WIN",
+        "MUNI": "066",
+        "MUNICODE": "0.25038523",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{448DB91F-6ADA-44AF-B5AE-009A29577CB8}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "40",
+        " -90.4125 OBJECTID": "ROCK HILL",
+        "MUNICIPALITY": "RKH",
+        "MUNI": "050",
+        "MUNICODE": "1.09568024",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{4539BBAD-4065-4BD0-BE30-AD67CADC753F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "41",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00589622",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{FFF1F7B9-B62E-4896-8333-91D028D79CFA}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "42",
+        " -90.4125 OBJECTID": "MAPLEWOOD",
+        "MUNICIPALITY": "MPL",
+        "MUNI": "035",
+        "MUNICODE": "1.56402614",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{A30E8686-2B5B-4580-8C3F-7809BBBA268B}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "43",
+        " -90.4125 OBJECTID": "CRYSTAL LAKE PARK",
+        "MUNICIPALITY": "CLP",
+        "MUNI": "016",
+        "MUNICODE": "0.09487193",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{59911C0B-D99B-43B5-82F7-A90C2E4FCFDD}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "44",
+        " -90.4125 OBJECTID": "HUNTLEIGH",
+        "MUNICIPALITY": "HUN",
+        "MUNI": "030",
+        "MUNICODE": "0.98690032",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{0D5C0275-3826-43C0-814A-2FF33E9C7A78}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "45",
+        " -90.4125 OBJECTID": "COUNTRY LIFE ACRES",
+        "MUNICIPALITY": "CLA",
+        "MUNI": "079",
+        "MUNICODE": "0.12232057",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{0B27BF2A-9B5E-4812-9E7E-5F5A55559027}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "46",
+        " -90.4125 OBJECTID": "BRENTWOOD",
+        "MUNICIPALITY": "BRW",
+        "MUNI": "009",
+        "MUNICODE": "1.9466251",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{AF930D75-8103-4187-B070-0158F2EE83C7}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "47",
+        " -90.4125 OBJECTID": "RICHMOND HEIGHTS",
+        "MUNICIPALITY": "RMH",
+        "MUNI": "049",
+        "MUNICODE": "2.28854519",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{A4871102-2D23-41C3-869C-E9CD75E4C258}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "48",
+        " -90.4125 OBJECTID": "FRONTENAC",
+        "MUNICIPALITY": "FRT",
+        "MUNI": "025",
+        "MUNICODE": "2.90266239",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{22B506D4-0CD0-4C22-8A7F-5AFC71832D8C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "49",
+        " -90.4125 OBJECTID": "OLIVETTE",
+        "MUNICIPALITY": "OLV",
+        "MUNI": "042",
+        "MUNICODE": "2.77122775",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{84E4C0E1-59ED-4D9A-9D54-5D87FFF09CB3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "50",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.12030614",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{B1109CAF-8F03-407D-97AF-8189CDE3B0CD}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "51",
+        " -90.4125 OBJECTID": "WELLSTON",
+        "MUNICIPALITY": "WEL",
+        "MUNI": "078",
+        "MUNICODE": "0.92742713",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{95CA3BA6-0D9F-44AE-9CA5-B502540D9A62}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "52",
+        " -90.4125 OBJECTID": "HILLSDALE",
+        "MUNICIPALITY": "HLD",
+        "MUNI": "068",
+        "MUNICODE": "0.34367881",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{D0AA2F19-8F65-463C-A067-C756ABA4C0B6}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "53",
+        " -90.4125 OBJECTID": "UPLANDS PARK",
+        "MUNICIPALITY": "UPL",
+        "MUNI": "056",
+        "MUNICODE": "0.06855475",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{EB6021E1-A8B3-4A2E-9DEC-C8E17212AD17}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "54",
+        " -90.4125 OBJECTID": "VELDA VILLAGE HILLS",
+        "MUNICIPALITY": "VEH",
+        "MUNI": "060",
+        "MUNICODE": "0.11961283",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{2F4D8397-6660-487C-AC40-4C9D59FCA7E6}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "55",
+        " -90.4125 OBJECTID": "BEVERLY HILLS",
+        "MUNICIPALITY": "BEV",
+        "MUNI": "008",
+        "MUNICODE": "0.09532134",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{B7F54892-3418-4CB4-B0F9-A4BDCD351707}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "56",
+        " -90.4125 OBJECTID": "PINE LAWN",
+        "MUNICIPALITY": "PIN",
+        "MUNI": "048",
+        "MUNICODE": "0.614589",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{43B3449C-7C47-465A-B3DB-DCE9A7A769E1}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "57",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.9274297",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{42BDA641-2B4B-4A46-91DD-271F9B462EF2}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "58",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.15428515",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{CE276D6B-115A-4C0E-B82B-1B63858D9F9A}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "59",
+        " -90.4125 OBJECTID": "VELDA CITY",
+        "MUNICIPALITY": "VEL",
+        "MUNI": "059",
+        "MUNICODE": "0.16755216",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{C8E177AD-0A9E-4044-835B-371E3893D099}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "60",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00026321",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{6DA08449-926E-4FE6-9A59-2A325D64632B}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "61",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00087053",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{28AAE0B2-E97C-4AEF-A37D-F1B002445020}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "62",
+        " -90.4125 OBJECTID": "BELLERIVE ACRES",
+        "MUNICIPALITY": "BRV",
+        "MUNI": "003",
+        "MUNICODE": "0.34104089",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{835D2DD7-6818-4229-A2E2-29BB04F58779}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "63",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00638866",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{935CABEB-5183-4826-B9FD-AE533667569F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "64",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00400754",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{7506DEE3-618F-4F81-B097-210381F797DB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "65",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.0066348",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{853AEA3E-9BB6-454F-8C52-2BE88946E5E4}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "66",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00135399",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{9734350D-6602-4564-8DF2-F775F2D04381}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "67",
+        " -90.4125 OBJECTID": "GREEN PARK",
+        "MUNICIPALITY": "GPK",
+        "MUNI": "106",
+        "MUNICODE": "1.30852088",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{3A85252A-AEB6-4F56-ABDB-928F4460D1D6}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "68",
+        " -90.4125 OBJECTID": "LAKESHIRE",
+        "MUNICIPALITY": "LAK",
+        "MUNI": "070",
+        "MUNICODE": "0.2177117",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{DA54667F-7F1E-4300-90FA-9CF76445B05E}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "69",
+        " -90.4125 OBJECTID": "BELLA VILLA",
+        "MUNICIPALITY": "BLV",
+        "MUNI": "002",
+        "MUNICODE": "0.12646229",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{3B40271E-1400-4AA7-8801-1A36A72E1A52}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "70",
+        " -90.4125 OBJECTID": "GRANTWOOD VILLAGE",
+        "MUNICIPALITY": "GWV",
+        "MUNI": "029",
+        "MUNICODE": "0.80898748",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{BB4B6F31-9E49-40ED-A265-A759C40A2EB8}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "71",
+        " -90.4125 OBJECTID": "TWIN OAKS",
+        "MUNICIPALITY": "TWO",
+        "MUNI": "055",
+        "MUNICODE": "0.27109417",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{E7573871-C257-4611-808C-44A1F49E2D83}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "72",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00173643",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{41E223CE-B6D9-4E6F-9B52-E535BB9BB26E}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "73",
+        " -90.4125 OBJECTID": "GLEN ECHO PARK",
+        "MUNICIPALITY": "GEP",
+        "MUNI": "027",
+        "MUNICODE": "0.03122508",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{55A7CE4B-BAD0-48E2-97DA-99CF17B51013}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "74",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.02893888",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{23C212A2-0247-4E48-BBAB-6D3AEE4E2E1E}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "75",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00119324",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{68413657-6884-41E7-BD46-37983C472F1C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "76",
+        " -90.4125 OBJECTID": "NORTHWOODS",
+        "MUNICIPALITY": "NTH",
+        "MUNI": "040",
+        "MUNICODE": "0.67333775",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{EB8931A9-C3BB-4918-ABD7-2A713CD1FA2F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "77",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00104069",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{E0A4FAD9-6519-4C94-8BB4-9B3256246BE6}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "78",
+        " -90.4125 OBJECTID": "PASADENA PARK",
+        "MUNICIPALITY": "PAP",
+        "MUNI": "046",
+        "MUNICODE": "0.09142287",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{5AEA710A-ACF2-42EB-93BE-DEAAEB5E982F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "79",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.01620425",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{62E8D3B4-16E6-4F8F-B18A-D70DEF38A207}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "80",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.02632731",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{D5A6D2AC-F2EB-4EA3-B542-C8A5A18AA337}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "81",
+        " -90.4125 OBJECTID": "PAGEDALE",
+        "MUNICIPALITY": "PGD",
+        "MUNI": "085",
+        "MUNICODE": "1.21159061",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{1C03FB4A-2BE4-4BC2-83DB-8DFB4B19E751}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "82",
+        " -90.4125 OBJECTID": "COUNTRY CLUB HILLS",
+        "MUNICIPALITY": "CCH",
+        "MUNI": "015",
+        "MUNICODE": "0.1866263",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{2B048C47-E597-46CE-ADDC-E326A95FB6C6}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "83",
+        " -90.4125 OBJECTID": "SYCAMORE HILLS",
+        "MUNICIPALITY": "SYC",
+        "MUNI": "054",
+        "MUNICODE": "0.13158481",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{8921A03E-29A2-46E7-9092-223DE88468D0}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "84",
+        " -90.4125 OBJECTID": "CHARLACK",
+        "MUNICIPALITY": "CHA",
+        "MUNI": "013",
+        "MUNICODE": "0.26761734",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{7325F72A-CC8E-49D8-8A83-87A7FE603575}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "85",
+        " -90.4125 OBJECTID": "OVERLAND",
+        "MUNICIPALITY": "OVR",
+        "MUNI": "043",
+        "MUNICODE": "4.39103293",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{1E2C437B-570C-4F54-B039-FDB5ECB3379A}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "86",
+        " -90.4125 OBJECTID": "COOL VALLEY",
+        "MUNICIPALITY": "COV",
+        "MUNI": "096",
+        "MUNICODE": "0.45755712",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{491FA0E4-2F43-4989-BEFA-0E37FF60AC9A}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "87",
+        " -90.4125 OBJECTID": "FERGUSON",
+        "MUNICIPALITY": "FER",
+        "MUNI": "022",
+        "MUNICODE": "6.15977656",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{5207C43D-5705-4C8F-95FD-87B4A8355375}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "88",
+        " -90.4125 OBJECTID": "FLORDELL HILLS",
+        "MUNICIPALITY": "FLH",
+        "MUNI": "023",
+        "MUNICODE": "0.12259412",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{09742B25-6375-4E31-BD98-5DBFB9F9A0C3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "89",
+        " -90.4125 OBJECTID": "KIRKWOOD",
+        "MUNICIPALITY": "KRW",
+        "MUNI": "032",
+        "MUNICODE": "9.17943048",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{DCB8C5C8-AAF7-413C-BD58-B4BB72A69174}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "90",
+        " -90.4125 OBJECTID": "MARLBOROUGH",
+        "MUNICIPALITY": "MRB",
+        "MUNI": "037",
+        "MUNICODE": "0.2357018",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{A7F63EFD-5F8D-4A41-A2C6-A0FA65305A56}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "91",
+        " -90.4125 OBJECTID": "SHREWSBURY",
+        "MUNICIPALITY": "SHR",
+        "MUNI": "053",
+        "MUNICODE": "1.43406078",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{AE5FE343-7729-4091-BFB2-27DBD2E9C398}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "92",
+        " -90.4125 OBJECTID": "CRESTWOOD",
+        "MUNICIPALITY": "CRE",
+        "MUNI": "069",
+        "MUNICODE": "3.57763326",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{F32BC78C-8FEC-4413-8B2F-603D62C6E9A7}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "93",
+        " -90.4125 OBJECTID": "ST. ANN",
+        "MUNICIPALITY": "STA",
+        "MUNI": "072",
+        "MUNICODE": "3.1556465",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{B31A9AB3-1BE3-4541-937E-C9466CEF5109}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "94",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "7.66698069",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{4E4326DD-AFA4-4DC4-972D-DBB22934626C}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "95",
+        " -90.4125 OBJECTID": "DES PERES",
+        "MUNICIPALITY": "DES",
+        "MUNI": "017",
+        "MUNICODE": "4.33635907",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{15829C0F-8DD3-432A-A401-30C01F675011}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "96",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.12734241",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{21D65834-D81D-4E96-8D0A-D027F21437F3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "97",
+        " -90.4125 OBJECTID": "WESTWOOD",
+        "MUNICIPALITY": "WES",
+        "MUNI": "097",
+        "MUNICODE": "0.62589883",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{933EE7FF-8444-4C2E-8B79-97BC1849AA04}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "98",
+        " -90.4125 OBJECTID": "MARYLAND HEIGHTS",
+        "MUNICIPALITY": "MRH",
+        "MUNI": "104",
+        "MUNICODE": "23.53182062",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{6E72DCA3-E5AE-4B5F-8092-631CC93D9B5D}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "99",
+        " -90.4125 OBJECTID": "BRIDGETON",
+        "MUNICIPALITY": "BRG",
+        "MUNI": "010",
+        "MUNICODE": "15.15525216",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{6D5529D4-D60D-4364-A793-E08A9CEC5230}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "100",
+        " -90.4125 OBJECTID": "NORMANDY",
+        "MUNICIPALITY": "NOR",
+        "MUNI": "039",
+        "MUNICODE": "1.84493864",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{D6966FB2-C1BC-491E-9740-7479D6B7A897}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "101",
+        " -90.4125 OBJECTID": "PASADENA HILLS",
+        "MUNICIPALITY": "PAH",
+        "MUNI": "045",
+        "MUNICODE": "0.21138557",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{1A90A6EF-6161-4A4C-AF90-94A809A213D9}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "102",
+        " -90.4125 OBJECTID": "FLORISSANT",
+        "MUNICIPALITY": "FLO",
+        "MUNI": "024",
+        "MUNICODE": "12.8079775",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{0AAC4BE7-A56A-4A0B-8C8C-EA14FCF7DD86}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "103",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "55.28782437",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{FFD5C97C-F5F1-40B9-926A-6D7BF1CFDF3F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "104",
+        " -90.4125 OBJECTID": "UNIVERSITY CITY",
+        "MUNICIPALITY": "UCT",
+        "MUNI": "057",
+        "MUNICODE": "5.89802311",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{452576A0-A3C7-4AE0-862C-03E0CE08E0FE}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "105",
+        " -90.4125 OBJECTID": "HANLEY HILLS",
+        "MUNICIPALITY": "HLH",
+        "MUNI": "076",
+        "MUNICODE": "0.34878777",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{C0E8A618-6AEF-4725-B15D-3FC09EFA1A0B}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "106",
+        " -90.4125 OBJECTID": "VINITA PARK",
+        "MUNICIPALITY": "VIP",
+        "MUNI": "061",
+        "MUNICODE": "0.72404647",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{B6299132-B1C3-4DE6-A019-8CFFE9B372DB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "107",
+        " -90.4125 OBJECTID": "VALLEY PARK",
+        "MUNICIPALITY": "VAL",
+        "MUNI": "058",
+        "MUNICODE": "4.24373456",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{E6458CC8-4A75-44CF-9B20-6F2304FCD6D8}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "108",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "93.11464697",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{41F11994-9E08-4A10-ABF6-7717E8CEEBD0}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "109",
+        " -90.4125 OBJECTID": "BELLEFONTAINE NEIGHBORS",
+        "MUNICIPALITY": "BFN",
+        "MUNI": "088",
+        "MUNICODE": "4.35441159",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{8AA40439-071B-4FAC-A83D-5F10687B545B}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "110",
+        " -90.4125 OBJECTID": "JENNINGS",
+        "MUNICIPALITY": "JEN",
+        "MUNI": "031",
+        "MUNICODE": "3.74531144",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{A4564CF3-0F76-49DF-A906-D5A93A4EBCE2}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "111",
+        " -90.4125 OBJECTID": "CREVE COEUR",
+        "MUNICIPALITY": "CCR",
+        "MUNI": "082",
+        "MUNICODE": "10.27503344",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{3C7F2B71-0AB6-4C3C-8DCC-DAC723B93057}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "112",
+        " -90.4125 OBJECTID": "TOWN & COUNTRY",
+        "MUNICIPALITY": "TAC",
+        "MUNI": "083",
+        "MUNICODE": "11.54651725",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{550AD71B-62A1-468B-84A4-F1B8FF43B1E3}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "113",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00048256",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{9B99E974-77E6-45EC-8773-6B98C0A10E45}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "114",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.01007022",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{1C406555-0FBA-4A2E-A0EA-2AA96067EBCB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "115",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00047754",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{2A9434E4-CE5A-458D-8A58-F41F1A683B10}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "116",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00475766",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{7DD14ACB-330D-41F7-A80F-6D441954FFC6}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "117",
+        " -90.4125 OBJECTID": "CHESTERFIELD",
+        "MUNICIPALITY": "CHF",
+        "MUNI": "105",
+        "MUNICODE": "33.63169434",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{144B1515-D92E-45A4-97F1-4F773D9A0914}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "118",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "0.00121602",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{DC1A066E-0223-43EE-963D-7A2EEE539598}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "119",
+        " -90.4125 OBJECTID": "ELLISVILLE",
+        "MUNICIPALITY": "ELV",
+        "MUNI": "019",
+        "MUNICODE": "4.37323406",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{ACD2B692-7C95-4F6D-BA5B-08965A39AECB}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "120",
+        " -90.4125 OBJECTID": "CLARKSON VALLEY",
+        "MUNICIPALITY": "CLK",
+        "MUNI": "087",
+        "MUNICODE": "2.72882982",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{FDE79B60-6D21-4149-9DE5-4FEDE5807113}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.5462, 38.5951]
+        ]
+      },
+      "properties": {
+        "OBJECTID": "BALLWIN",
+        "MUNICIPALITY": "BAL",
+        "MUNI": "093",
+        "MUNICODE": "8.94001252"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "122",
+        " -90.4125 OBJECTID": "PACIFIC",
+        "MUNICIPALITY": "PAC",
+        "MUNI": "044",
+        "MUNICODE": "0.60664742",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{D3F9FCAF-7F5C-423F-B89D-FFCC6595EF7F}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "123",
+        " -90.4125 OBJECTID": "UNINCORPORATED",
+        "MUNICIPALITY": "UNI",
+        "MUNI": "000",
+        "MUNICODE": "7.57627964",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{0C23D738-A2FD-424E-97A7-47DDDC64CDE5}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "124",
+        " -90.4125 OBJECTID": "EUREKA",
+        "MUNICIPALITY": "EUR",
+        "MUNI": "098",
+        "MUNICODE": "10.61113783",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{A513D1A8-3F2D-4DF3-AAC5-B0FBFF5612FE}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {},
+      "properties": {
+        "38.6103": "125",
+        " -90.4125 OBJECTID": "WILDWOOD",
+        "MUNICIPALITY": "WWD",
+        "MUNI": "107",
+        "MUNICODE": "67.20598254",
+        "SQ_MILES": "2018-03-05T09:00:34.000Z",
+        "last_edited_date": "{6D8D8769-CBC5-43B0-B063-F6C8E1A48904}"
+      }
+    }
+  ]
+}

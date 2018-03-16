@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "name": "councilDistricts",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.349283, 38.617552]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "5",
+        "COUNTY_COUNCIL": "5",
+        "NAME": "Council District 5",
+        "GlobalID": "{3C85F73E-633F-4B60-B983-01DAC2906970}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.411506, 38.766995]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "2",
+        "COUNTY_COUNCIL": "2",
+        "NAME": "Council District 2",
+        "GlobalID": "{5DDBA802-A2CD-4E8A-92AC-FA87EF518461}",
+        "last_edited_date": "2014-06-17T18:24:11.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.267335, 38.793383]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "6",
+        "COUNTY_COUNCIL": "4",
+        "NAME": "Council District 4",
+        "GlobalID": "{66E30A0B-3489-4384-AE98-F241B2516ACD}",
+        "last_edited_date": "2014-06-18T14:17:43.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.338450, 38.523664]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "1",
+        "COUNTY_COUNCIL": "6",
+        "NAME": "Council District 6",
+        "GlobalID": "{978A1C6D-E440-491E-A7AF-F52BBEAE841E}",
+        "last_edited_date": "2014-01-03T21:39:19.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.432897, 38.600886]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "3",
+        "COUNTY_COUNCIL": "3",
+        "NAME": "Council District 3",
+        "GlobalID": "{5D9444A0-D228-462B-A1EE-8D50B669EF10}"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.587069, 38.592553]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "4",
+        "COUNTY_COUNCIL": "7",
+        "NAME": "Council District 7",
+        "GlobalID": "{45357767-049D-486A-BD79-CBD8D6798347}",
+        "last_edited_date": "2014-09-09T13:52:02.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-90.310114, 38.727829]
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "7",
+        "COUNTY_COUNCIL": "1",
+        "NAME": "Council District 1",
+        "GlobalID": "{C6C7D518-775C-4672-96FC-E6A872AF761D}",
+        "last_edited_date": "2014-06-18T14:17:43.000Z"
+      }
+    }
+  ]
+}
