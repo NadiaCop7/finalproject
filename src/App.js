@@ -58,43 +58,32 @@ class App extends Component {
     }));
 
 
-    store.dispatch(SdkMapActions.addLayer({
-      /*"id": "stlCounty",
-      "type": "fill",
-      "source": {
-        "type": "geojson",
-        "data": {
-          "type": "Feature",
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [[
-              [38.8624, -90.3223],
-              [38.8093, -90.1307],
-              [38.4727, -90.3549],
-              [38.5350, -90.7257],
-              [38.8624, -90.3223]
-            ]]
-          }
-        }
-      },
-      "paint": {
-        "fill-color": "#088",
-        "fill-opacity": 0.2
+    const addDataFromGeoJSON = (url) => {
+
+        return fetch(url)
+        .then(
+          response => response.json(),
+          error => console.error('An error occured.', error),
+        )
+
+        .then(json => {
+          store.dispatch(SdkMapActions.addSource('stlPolygon', {
+            type: 'geojson',
+            data: json
+          }));
+          store.dispatch(SdkMapActions.addLayer({
+            id: 'stlPolygon',
+            type: 'fill',
+            source: 'stlPolygon',
+            paint: {
+              'fill-opacity': 0.2,
+              'fill-color': '#ff6347',
+            }
+          }));
+        });
       }
-    }));*/
-
-
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [125.6, 10.1]
-      },
-      "properties": {
-        "name": "Dinagat Islands"
-      }
-      }));
-
-
+      addDataFromGeoJSON('map_data/stlPolygon.geojson');
+    
   }
 
   render() {
@@ -112,12 +101,26 @@ class App extends Component {
           <h2>What is a STL Progressive?</h2>
           <div className="expand">
             <i className="fa fa-plus-square" onClick={this.togglePopup.bind(this)}>Info</i>
+             {this.state.showPopup ?
+            <Popup
+              text="A Berniecrat"
+              closePopup={this.togglePopup.bind(this)}
+            />
+            : null
+          }
           </div>
-        </div>
+         </div>
         <div className="info">
           <h2>What is a STL Progressive</h2>
           <div className="expand">
             <i className="fa fa-plus-square" onClick={this.togglePopup.bind(this)}></i>
+           {this.state.showPopup ?
+            <Popup
+              text="A Berniecrat"
+              closePopup={this.togglePopup.bind(this)}
+            />
+            : null
+          }
           </div>
         </div>
         <div className="info">
@@ -127,7 +130,7 @@ class App extends Component {
           </div>
           {this.state.showPopup ?
               <Popup
-                text="Close Me"
+                text="Check out our map below to find a local progressive"
                 closePopup={this.togglePopup.bind(this)}
               />
               : null
