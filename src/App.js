@@ -67,14 +67,14 @@ class App extends Component {
         )
 
         .then(json => {
-          store.dispatch(SdkMapActions.addSource('stlPolygon', {
+          store.dispatch(SdkMapActions.addSource('https://opendata.arcgis.com/datasets/7da111859b8c4dc984baac93aaa66fe0_13.geojson', {
             type: 'geojson',
             data: json
           }));
           store.dispatch(SdkMapActions.addLayer({
             id: 'stlPolygon',
             type: 'fill',
-            source: 'stlPolygon',
+            source: 'https://opendata.arcgis.com/datasets/7da111859b8c4dc984baac93aaa66fe0_13.geojson',
             paint: {
               'fill-opacity': 0.2,
               'fill-color': '#ff6347',
@@ -82,7 +82,7 @@ class App extends Component {
           }));
         });
       }
-      addDataFromGeoJSON('map_data/stlPolygon.geojson');
+      addDataFromGeoJSON('https://opendata.arcgis.com/datasets/7da111859b8c4dc984baac93aaa66fe0_13.geojson');
     
   }
 
