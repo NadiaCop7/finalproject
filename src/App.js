@@ -22,8 +22,8 @@ class Popup extends React.Component {
   }
 }
 
-const store = createStore(combineReducers({"map": SdkMapReducer,
-}));
+const store = createStore(combineReducers({"map": SdkMapReducer,}),
+window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
 
 class App extends Component {
   constructor() {
