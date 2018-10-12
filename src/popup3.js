@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class Popup extends Component {
+class Popup3 extends Component {
   constructor() {
       super();
       this.state = {
@@ -12,17 +12,18 @@ class Popup extends Component {
         showPopup: !this.state.showPopup
       });
     }
-
-    render() {
+    render () {
+      console.log(this.props.text);
       return (<div className="popup">
         <div className="popup_inner">
-          <h1>{this.props.text}</h1>
-          <button onClick={this.props.closePopup}>close me</button>
+          <p>{this.props.text}</p>
+          <button onClick={this.props.closePopup}>close</button>
         </div>
       </div>
       );
-    }  
+    }
+
+
 }
 
-
-export default Popup;
+export default Popup3;

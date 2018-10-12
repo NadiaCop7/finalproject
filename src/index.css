@@ -16,14 +16,15 @@ body {
   font-size: large;
   font-family: impact;
   text-align: center;
+  margin-bottom: 20px;
 }
 
-.info {
+.row .info {
   text-align: left;
   font-family: impact;
   border: 2px solid grey;
   border-radius: 5px;
-  width: 350px;
+  width: 400px;
   margin-bottom: 15px;
   margin: 15px;
 }
@@ -32,9 +33,10 @@ body {
   color: grey;
 }
 
-.PanoSTL {
+.NorfolkVA {
   width: 100%;
   height: auto;
+  margin-bottom: 30px;
 }
 
 .popup {
@@ -45,7 +47,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  margin: auto;
+  margin-bottom: 15px;
   background-color: rgba(0,0,0, 0.5);
 }
 .popup_inner {
@@ -56,4 +58,38 @@ body {
   bottom: 25%;
   margin: auto;
   background: white;
+}
+
+.stamp {
+  text-align: center;
+  font-family: impact;
+}
+
+.stlMap {
+  background-color: grey;
+}
+
+.video {
+  margin: 40px;
+  align-items: center;
+}
+
+.weather-widget {
+  margin-bottom: 20px;
+}
+
+.hr {
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  margin-bottom: 20px;
+}
+
+h3:hover {
+  color: grey;
+  transition: all 0.4s ease;
+  font-size: 45px;
 }
